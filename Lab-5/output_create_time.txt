@@ -1,0 +1,7 @@
+Total time taken for 10 cards is 0.130000 ms.
+Total time taken for 100 cards is 0.527000 ms.
+Total time taken for 1000 cards is 5.200000 ms.
+Total time taken for 10000 cards is 25.775000 ms.
+Total time taken for 100000 cards is 64.496000 ms.
+Total time taken for 1000000 cards is 518.886000 ms.
+Total time taken for 10000000 cards is 5175.676000 ms.

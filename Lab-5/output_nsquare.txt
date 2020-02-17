@@ -1,0 +1,10 @@
+Total time taken for general n^2 procedure for n = 10 is 0.001000 ms.
+
+Total time taken for general n^2 procedure for n = 100 is 0.114000 ms.
+
+Total time taken for general n^2 procedure for n = 1000 is 10.695000 ms.
+
+Total time taken for general n^2 procedure for n = 10000 is 206.192000 ms.
+
+Total time taken for general n^2 procedure for n = 100000 is 18659.828000 ms.
+
